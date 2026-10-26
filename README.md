@@ -131,3 +131,5 @@ My goal is simple: write clean code, build reliable software, and create systems
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/THE-AHMEXD/THE-AHMEXD/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
+
+<!-- streak-notes -->
