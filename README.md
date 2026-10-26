@@ -133,3 +133,5 @@ My goal is simple: write clean code, build reliable software, and create systems
 </p>
 
 <!-- streak-notes -->
+
+<!-- achievements -->
